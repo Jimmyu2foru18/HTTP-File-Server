@@ -1,6 +1,6 @@
-# FileHarbor - A Simple HTTP File Server
+# Simple HTTP File Server
 
-FileHarbor is a lightweight, user-friendly HTTP file server designed for easy file sharing and management over a network.
+This is A user-friendly HTTP file server designed for easy file sharing and management over a network.
 
 ## Features
 
