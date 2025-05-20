@@ -1,4 +1,4 @@
-# Simple HTTP File Server
+# HTTP File Server
 
 This is A user-friendly HTTP file server designed for easy file sharing and management over a network.
 
